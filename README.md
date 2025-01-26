@@ -1,6 +1,6 @@
 # Predicting Box Office Performance from Movie Trailer Comments
 
-- The project aimed to predict the opening week box office revenue of movies using Reddit comments on movie trailer posts prior to their release. Analyzed Reddit comments with BERTopic for topic extraction and a BERT-based Transformer from Hugging Face to generate sentiment scores.
+- The project aimed to predict the opening week box office revenue of movies using Reddit comments on movie trailer posts prior to their release. Analyzed Reddit comments with BERTopic for topic extraction and sentiment scores were generated using RoBERTa.
 
 - Reduced dimensions for topic clustering and refinement, achieving a silhouette score of 0.61, indicating well-formed clusters.
 
